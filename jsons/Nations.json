@@ -1,38 +1,28 @@
-[
-	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
-		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
-		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+"name": "Chinese Soviet Republic",
+		"leaderName": "Mao Zendog",
+		"adjective": ["Chinese"],
+		"preferredVictoryType": "Domination",
+		"personality": "Wu Zetian",
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+        "startIntroPart1": "Mao Zendog leader of the Chonese Soviet Republic, you lead the CSR and the CCP in effors to make a communist state and Rod china of inequality, while initial failursles from the Long March the Xi'an incident saved the CCP from the nationalist to ally with the KMT against the common enemy which after the war against kapan you established the PRC and raised China to its glory",
+        "startIntroPart2": "Mao Zendog, the people cry out for you to do it again, can you win the civil war and make china Free from the capitalist west ? ",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
-]
+        "declaringWar": "Do not fight back the only thing you have to loose is your chains !.",
+		"attacked": "Fool! I will disembowel you all!",
+		"defeated": "This is not over our people will rise up China will be free !.",
+		"introduction": "Greetings, I am Mao Zendog leader of the CSR, now do you want to learn about communism ? much better than the corrupt capitalist system",
+		"neutralHello": "How are you today?",
+		"hateHello": "Oh. It's you?",
+		"tradeRequest": "Commard, do you think you can accept this request?",
+
+        "outerColor": [cc0000],
+        "innerColor": [FFF903],
+
+		"favoredReligion": "Taoism",
+		"uniqueName": ["Chinese Socialist Revolution"]
+		"uniques": "[Adopt [Order]"
+		"cities": ["Ruijin","Ya'an","Beijing","Shanghai", "Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong",
+			"Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang",
+			"Taiyuan","Tainan","Dalian","Lijiang","Wuxi","Suzhou","Maoming","Shaoguan","Yangjiang","Heyuan","Huangshi",
+			"Yichang","Yingtian","Xinyu","Xinzheng","Handan","Dunhuang","Gaoyu","Nantong","Weifang","Xikang"],
+        "spyNames": ["Li", "Chen", "Zhang", "Liu", "Yang", "Huang", "Zhao", "Wu", "Zhou", "Sun"]
